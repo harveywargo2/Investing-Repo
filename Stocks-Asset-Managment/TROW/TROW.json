@@ -1,0 +1,14 @@
+{
+  "Meta": {
+    "Ticker": "TROW",
+    "Sector": "Financial Services",
+    "Industry": "Asset Management",
+    "FY": "Dec",
+    "10K": "Feb",
+    "Investor": "https://troweprice.gcs-web.com/",
+    "Circle": "Asset Management"
+  },
+  "10K": {
+    "Business": "U.S. mutual funds, subadvised funds, separately managed accounts, collective investment trusts, and other",
+  }
+}
