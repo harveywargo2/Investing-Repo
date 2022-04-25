@@ -21,5 +21,4 @@
 - Margin of Safety is over 20%
 - YOC Greater than 5% in 4-6 years 
 
-
 # Business Analysis
