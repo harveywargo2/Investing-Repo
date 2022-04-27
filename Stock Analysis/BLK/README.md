@@ -2,6 +2,16 @@
 [Investor Relations](https://ir.blackrock.com/home/default.aspx)
 
 CEO: Larry Fink
+
+```
+Indicator of Value: FwdDivYield
+Med: 2.5%
+Value: 2.7%
+Deep Value: 3.1%
+Certainy: High
+```
+
+
 # Trend Analysis
 #### Current Trends (2022 - 2010)
 - Median & Mean Forward Dividend Yield are 2.5%

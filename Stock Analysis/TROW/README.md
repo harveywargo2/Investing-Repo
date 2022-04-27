@@ -5,7 +5,13 @@ CEO - Robert W Sharps
 
 Asset Management Business 
 
-## Accumulate 3.0% - MOS 3.3%
+```
+Indicator of Value: FwdDivYield
+Med: 2.7%
+Value: 3.0%
+Deep Value: 3.3%
+Certainty: High
+```
 
 # Trend Analysis
 #### Current Trends (2022 - 2015)
