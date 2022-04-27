@@ -1,0 +1,23 @@
+# Blackrock
+[Investor Relations](https://ir.blackrock.com/home/default.aspx)
+
+CEO: Larry Fink
+# Trend Analysis
+#### Current Trends (2022 - 2010)
+- Median & Mean Forward Dividend Yield are 2.5%
+- DPS Growth is 15%
+- Rev Growth is 14%
+
+#### Historic 
+- Dividend History since 2003
+- Long Term Business
+- holds shares in treasury
+
+
+# Quantitative Assumptions 
+#### Feb-Apr 2022
+- 2.75% Buy Point = $710 price target 
+- Fair Value Point = $800
+
+
+# Business Analysis
