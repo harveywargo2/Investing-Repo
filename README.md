@@ -1,2 +1,2 @@
-# Stock Analysis
+# Investment Repo
 
