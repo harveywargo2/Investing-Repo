@@ -4,11 +4,13 @@
 CEO: Larry Fink
 
 ```
-Indicator of Value: FwdDivYield
-Med: 2.5%
-Value: 2.7%
-Deep Value: 3.1%
-Certainy: High
+Aesop: FwdDivYield
+Median: 2.6%
+MOS: 2.8%
+Deep MOS: 3.0%
+Growth Low: 12%
+Growth High: 15%
+Certainty: High
 ```
 
 

@@ -6,10 +6,12 @@ CEO - Robert W Sharps
 Asset Management Business 
 
 ```
-Indicator of Value: FwdDivYield
-Med: 2.7%
-Value: 3.0%
-Deep Value: 3.3%
+Aesop: FwdDivYield
+Median: 2.7%
+MOS: 3.0%
+Deep MOS: 3.3%
+Growth Low: 10%
+Growth High: 15%
 Certainty: High
 ```
 
