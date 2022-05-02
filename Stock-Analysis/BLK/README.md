@@ -6,7 +6,7 @@ CEO: Larry Fink
 Asset Management Business 
 
 ```
-Aesop: FwdDivYield
+Aesop: EBond
 Median: 2.5%
 MOS: 2.8%
 Deep MOS: 3.0%
