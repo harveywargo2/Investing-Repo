@@ -17,7 +17,6 @@ Aesop: N/A
 - 
 
 # Quantitative Assumptions 
-#### Feb-Apr 2022
 
 # Business Analysis
 **Productivity and Business Processes**
