@@ -6,7 +6,7 @@ CEO - Robert W Sharps
 Asset Management Business 
 
 ```
-Aesop: FwdDivYield
+Aesop: EBond
 Median: 2.7%
 MOS: 3.0%
 Deep MOS: 3.3%
