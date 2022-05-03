@@ -26,6 +26,7 @@ Certainty: High
 - Dividend History since 2003
 - Long Term Business
 - holds shares in treasury
+- Dividend Increases in March
 
 
 # Quantitative Assumptions 

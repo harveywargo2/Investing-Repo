@@ -25,6 +25,7 @@ Certainty: High
 - 35 year Dividend History
 - Long Term Business
 - 10% to 13% Revenue Growth
+- Dividend Increases in March
 
 # Quantitative Assumptions 
 #### Feb-Apr 2022
