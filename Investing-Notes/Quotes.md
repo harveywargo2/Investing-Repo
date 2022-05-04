@@ -1,0 +1,1 @@
+"There are no solutions there are just trade offs" - Thomas Sowell
