@@ -1,6 +1,6 @@
 # Apple
 ```
-Aesop: Price/FCF or Discounted FCF 
+Aesop: Price to FCF or Discounted FCF 
 ```
 
 # Trend Analysis

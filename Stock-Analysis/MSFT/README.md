@@ -1,12 +1,6 @@
 # Microsoft 
-[MSFT - Investor Relations](https://www.microsoft.com/en-us/investor)
-
-CEO - Satya Nadella
-
-Big Tech
-
 ```
-Aesop: N/A 
+Aesop: Price to FCF or Discounted FCF 
 ```
 
 # Trend Analysis
@@ -14,10 +8,13 @@ Aesop: N/A
 
 #### Historic 
 - 12% - 13% DPSGro
-- 
 
 # Quantitative Assumptions 
+[MSFT - Investor Relations](https://www.microsoft.com/en-us/investor)
 
+CEO - Satya Nadella
+
+Big Tech
 # Business Analysis
 **Productivity and Business Processes**
 54 Billion
