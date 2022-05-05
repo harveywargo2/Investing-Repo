@@ -7,7 +7,7 @@ MOS: 3.0%
 Deep MOS: 3.3%
 Growth Low: 10%
 Growth High: 15%
-Certainty: High
+Certainty: Yes
 ```
 
 # Trending
