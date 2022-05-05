@@ -1,10 +1,4 @@
 # Blackrock
-[Investor Relations](https://ir.blackrock.com/home/default.aspx)
-
-CEO: Larry Fink
-
-Asset Management Business 
-
 ```
 Aesop: EBond
 Median: 2.5%
@@ -27,12 +21,16 @@ Certainty: High
 - Long Term Business
 - holds shares in treasury
 - Dividend Increases in March
+- Largest Asset Manager in the world
 
 
-# Quantitative Assumptions 
-#### Feb-Apr 2022
-- 2.75% Buy Point = $710 price target 
-- Fair Value Point = $800
+# Meta 
+[Investor Relations](https://ir.blackrock.com/home/default.aspx)
 
+CEO: Larry Fink
+
+Asset Management Business 
+
+FYE - Dec
 
 # Business Analysis
