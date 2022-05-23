@@ -15,6 +15,8 @@ Certainty: Yes
 ## Meta
 [TROW - Investor Relations](https://troweprice.gcs-web.com/financial-information/annual-reports)
 
+[Morningstar - Analysis](https://www.morningstar.com/stocks/xnas/trow/analysis)
+
 ~~~
 CEO: Robert W Sharps
 FY End: Dec
@@ -38,6 +40,7 @@ Asset Management
 	- FInancial Crisis
 	- Covid Crash
 	- Dot Com Bust
+
 ## Quant 
 
 ## Trend
