@@ -1,4 +1,4 @@
-# Texas Instruments
+# Apple
 ## Fair Value Assumption
 
 ```
@@ -25,7 +25,7 @@ Business: Tech Products & Services
 
 
 ## Historic Trends
-- Money Printer
+
 
 ## Business Notables
 Products
