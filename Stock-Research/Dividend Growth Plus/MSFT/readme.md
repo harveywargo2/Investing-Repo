@@ -1,21 +1,37 @@
 # Microsoft 
+## Fair Value Assumption
+
 ```
-Aesop: Price to FCF or Discounted FCF 
+Method: Morningstar
+MOS: 25%
 ```
 
-# Trend Analysis
-#### Current Trends 
 
-#### Historic 
-- 12% - 13% DPSGro
+## Meta
+[TXN - Investor Relations](https://www.microsoft.com/en-us/investor)
 
-# Quantitative Assumptions 
-[MSFT - Investor Relations](https://www.microsoft.com/en-us/investor)
+[Morningstar - Analysis](https://www.morningstar.com/stocks/xnas/msft/analysis)
 
-CEO - Satya Nadella
+~~~
+CEO: Satya Nadella
+FY End: Dec
+Ex Div: Feb-May-Aug-Nov
+Div Pay: Mar-Jun-Sep-Dec
+Div History: 2003
+Div Increase: Nov
+DivGro Streak: 2003
+Business: Tech Products,Gaming , Cloud, Business Solutions
+~~~
 
-Big Tech
-# Business Analysis
+
+## Historic Trends
+- Long Dividend History
+- Double Digit PerShare DivGro
+- Money Printer
+
+
+## Business Notables
+### Reporting Segments
 **Productivity and Business Processes**
 54 Billion
 Office Commercial 
@@ -52,3 +68,7 @@ Gaming
 > Including Xbox hardware and Xbox content and services, comprising digital transactions, Xbox Game Pass and other subscriptions, video games, third-party video game royalties, cloud services, and advertising.
 
 Search advertising
+
+
+## Other Notes
+
