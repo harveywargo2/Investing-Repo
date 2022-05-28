@@ -13,7 +13,7 @@ Certainty: Yes
 
 
 ## Meta
-[TROW - Investor Relations](https://troweprice.gcs-web.com/financial-information/annual-reports)
+[Investor Relations](https://troweprice.gcs-web.com/financial-information/annual-reports)
 
 [Morningstar - Analysis](https://www.morningstar.com/stocks/xnas/trow/analysis)
 

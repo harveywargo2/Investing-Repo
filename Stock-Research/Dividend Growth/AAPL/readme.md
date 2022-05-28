@@ -8,7 +8,7 @@ MOS: 25%
 
 
 ## Meta
-[TXN - Investor Relations](https://investor.apple.com/investor-relations/default.aspx)
+[Investor Relations](https://investor.apple.com/investor-relations/default.aspx)
 
 [Morningstar - Analysis](https://www.morningstar.com/stocks/xnas/aapl/analysis)
 

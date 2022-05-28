@@ -7,7 +7,7 @@ MOS: 25%
 ```
 
 ## Meta
-[DIS - Investor Relations](https://thewaltdisneycompany.com/investor-relations/)
+[Investor Relations](https://thewaltdisneycompany.com/investor-relations/)
 
 [Morningstar - Analysis](https://www.morningstar.com/stocks/xnys/dis/analysis)
 

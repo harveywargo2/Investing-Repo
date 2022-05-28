@@ -8,7 +8,7 @@ MOS: 25%
 
 
 ## Meta
-[TXN - Investor Relations](https://www.microsoft.com/en-us/investor)
+[Investor Relations](https://www.microsoft.com/en-us/investor)
 
 [Morningstar - Analysis](https://www.morningstar.com/stocks/xnas/msft/analysis)
 

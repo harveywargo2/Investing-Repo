@@ -13,7 +13,7 @@ Certainty: Yes
 
 
 ## Meta
-[TXN - Investor Relations](https://investor.ti.com/)
+[Investor Relations](https://investor.ti.com/)
 
 [Morningstar - Analysis](https://www.morningstar.com/stocks/xnas/txn/analysis)
 

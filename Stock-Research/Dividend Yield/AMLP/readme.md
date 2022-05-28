@@ -1,4 +1,4 @@
-# Texas Instruments
+# Alerian MLP ETF 
 ## Fair Value Assumption
 
 ```
@@ -7,7 +7,6 @@ Method: DYT
 
 
 ## Meta
-
 [Morningstar - Analysis](https://www.morningstar.com/etfs/arcx/amlp/analysiss)
 
 ~~~
