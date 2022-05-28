@@ -3,11 +3,11 @@
 
 ```
 Method: DYT
-Median: 
-Safety: 
-MOS: 
-Growth Low: 
-Growth High: 
+Median: 2.4
+Safety: 2.7
+MOS: 3.1
+Growth Low: 8
+Growth High: 11
 Certainty: Yes
 ```
 
