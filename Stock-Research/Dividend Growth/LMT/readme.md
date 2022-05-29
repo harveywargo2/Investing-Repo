@@ -30,7 +30,6 @@ Business: Aerospace & Defense
 
 
 ## Historic Trends
-- 
 
 
 ## Business Notables

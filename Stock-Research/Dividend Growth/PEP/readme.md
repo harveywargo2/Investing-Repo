@@ -1,7 +1,4 @@
-# Dividend Growth Stocks
-- Grow dividends higher than average inflation
-
-# Company
+# Pepsico
 ## Fair Value Assumption
 
 ```
