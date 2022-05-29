@@ -4,6 +4,8 @@
 ```
 Method: Morningstar
 MOS: 25%
+Growth Low: 8
+Growth High: 10
 ```
 
 
@@ -20,7 +22,7 @@ Div Pay: Feb-May-Aug-Nov
 Div History: 2012
 Div Increase: May
 DivGro Streak: 2012
-DivGro Range: 
+DivGro Range: 8% - 10%
 Business: Tech Products & Services
 ~~~
 

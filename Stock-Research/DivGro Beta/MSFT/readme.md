@@ -4,6 +4,8 @@
 ```
 Method: Morningstar
 MOS: 25%
+Growth Low: 8
+Growth High: 12
 ```
 
 

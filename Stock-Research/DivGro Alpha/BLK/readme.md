@@ -1,43 +1,43 @@
-# T Row Price Group
+# Blackrock
 ## Fair Value Assumption
 
 ```
 Method: DYT
-Median: 2.7%
-Safety: 3.0%
-MOS: 3.3%
-Growth Low: 10%
-Growth High: 15%
+Median: 2.5%
+Safety: 2.7%
+MOS: 3.0%
+Growth Low: 12%
+Growth High: 19%
 Certainty: Yes
 ```
 
 
 ## Meta
-[Investor Relations](https://troweprice.gcs-web.com/financial-information/annual-reports)
+[Investor Relations](https://ir.blackrock.com/home/default.aspx)
 
 [Morningstar - Analysis](https://www.morningstar.com/stocks/xnas/trow/analysis)
 
 ~~~
-CEO: Robert W Sharps
+CEO: Larry Fink
 FY End: Dec
 Ex Div: Mar-Jun-Sep-Dec
 Div Pay: Mar-Jun-Sep-Dec
 Div History: Long
 Div Increase: March
-DivGro Streak: 1997
+DivGro Streak: 2003
 Business: Asset Management
 ~~~
 
+
 ## Historic Trends
-- 35 year Dividend History
-- 10% to 13% Revenue Growth
+- 20 year Dividend History
+- 8% to 14% Revenue Growth
 - Double Digit PerShare DivGro
-- Will Issues Special Dividends
-- Stable Through
+- Holds Treasury Shares 
+- Stable through
 	- FInancial Crisis
 	- Covid Crash
-	- Dot Com Bust
 
 ## Business Notables
-## Other Notes
+## Notables
 

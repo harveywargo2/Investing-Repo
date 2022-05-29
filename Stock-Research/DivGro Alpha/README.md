@@ -1,5 +1,5 @@
-# Dividend Growth Stocks
-- Grow dividends higher than average inflation
+# DivGro Alpha
+- Dividend Growth > 12% per Year
 
 # Company
 ## Fair Value Assumption
