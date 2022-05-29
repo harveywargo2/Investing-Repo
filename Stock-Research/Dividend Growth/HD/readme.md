@@ -30,14 +30,9 @@ Business: Home Retail
 
 
 ## Historic Trends
-- 
 
 
 ## Business Notables
-Reporting Segments
-- Analog
-- Embedded Processing 
-- Other
 
 
 ## Other Notes
