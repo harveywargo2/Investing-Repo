@@ -1,13 +1,18 @@
 # Lowes
-## Fair Value Assumption
+## Aesop
 
 ```
 Method: DYT
-Median: 1.6
-Safety: 2.0
-MOS: 2.5
-Growth Low: 12
-Growth High: 20
+MOS: 2.0
+Median Low: 1.5
+Median High: 1.8
+Growth Low: 12%
+Growth High: 20%
+Ex Div: 1-4-7-10
+Div Pay: 2-5-8-11
+Div History: 1963
+Div Increase: Jul
+DivGro Streak: 1963
 Certainty: Yes 
 ```
 
@@ -20,18 +25,12 @@ Certainty: Yes
 ~~~
 CEO: Marvin Ellison
 FY End: Jan
-Ex Div: Jan-Apr-Jul-Oct
-Div Pay: Feb-May-Aug-Nov
-Div History: Long
-Div Increase: Jul
-DivGro Streak: 1963
-DivGro Range: 12 - 20
 Business: Home Retail
 ~~~
 
 
 ## Historic Trends
-- Double digit DivGro 
+- Double Digit DivGro 
 
 
 ## Business Notables

@@ -4,8 +4,16 @@
 ```
 Method: Morningstar
 MOS: 25%
-Growth Low: 8
-Growth High: 12
+Median Low: N/A
+Median High: N/A
+Growth Low: 8%
+Growth High: 12%
+Ex Div: 2-5-8-11
+Div Pay: 3-6-9-12
+Div History: 2003
+Div Increase: Nov
+DivGro Streak: 2003
+Certainty: Yes
 ```
 
 
@@ -17,11 +25,7 @@ Growth High: 12
 ~~~
 CEO: Satya Nadella
 FY End: Dec
-Ex Div: Feb-May-Aug-Nov
-Div Pay: Mar-Jun-Sep-Dec
-Div History: 2003
-Div Increase: Nov
-DivGro Streak: 2003
+
 Business: Tech Products,Gaming , Cloud, Business Solutions
 ~~~
 

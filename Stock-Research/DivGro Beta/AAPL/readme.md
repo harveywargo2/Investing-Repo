@@ -1,11 +1,19 @@
 # Apple
-## Fair Value Assumption
+## Aesop
 
 ```
 Method: Morningstar
 MOS: 25%
-Growth Low: 8
-Growth High: 10
+Median Low: N/A
+Median High: N/A
+Growth Low: 8%
+Growth High: 10%
+Ex Div: 2-5-8-11
+Div Pay: 2-5-8-11
+Div History: 2012
+Div Increase: May
+DivGro Streak: 2012
+Certainty: Yes
 ```
 
 
@@ -17,12 +25,6 @@ Growth High: 10
 ~~~
 CEO: Tim Cook
 FY End: Sep
-Ex Div: Feb-May-Aug-Nov
-Div Pay: Feb-May-Aug-Nov
-Div History: 2012
-Div Increase: May
-DivGro Streak: 2012
-DivGro Range: 8% - 10%
 Business: Tech Products & Services
 ~~~
 

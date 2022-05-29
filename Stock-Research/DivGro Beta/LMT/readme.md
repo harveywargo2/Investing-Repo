@@ -1,13 +1,18 @@
 # Lockheed Martin
-## Fair Value Assumption
+## Aesop
 
 ```
 Method: DYT
-Median: 2.7
-Safety: 3.1
-MOS: 3.5
-Growth Low: 10
-Growth High: 14
+MOS: 3.5%
+Median Low: 2.7%
+Median High: 3.1%
+Growth Low: 10%
+Growth High: 14%
+Ex Div: 2-5-8-11
+Div Pay: 3-6-9-12
+Div History: 1995
+Div Increase: Nov
+DivGro Streak: 2000
 Certainty: Yes
 ```
 
@@ -20,11 +25,7 @@ Certainty: Yes
 ~~~
 CEO: James D Taiclet
 FY End: Dec
-Ex Div: Feb-May-Aug-Nov
-Div Pay: Mar-Jun-Sep-Dec
-Div History: 1995
-Div Increase: Nov
-DivGro Streak: 2000
+
 Business: Aerospace & Defense
 ~~~
 

@@ -1,13 +1,18 @@
 # Home Depot
-## Fair Value Assumption
+## Aesop
 
 ```
 Method: DYT
-Median: 2.3
-Safety: 2.6
-MOS: 3
-Growth Low: 12
-Growth High: 18
+MOS: 3.0%
+Median Low: 2.3%
+Median High: 2.6%
+Growth Low: 12%
+Growth High: 18%
+Ex Div: 3-6-9-12
+Div Pay: 3-6-9-12
+Div History: 1993
+Div Increase: March
+DivGro Streak: 2003
 Certainty: Yes
 ```
 
@@ -20,11 +25,6 @@ Certainty: Yes
 ~~~
 CEO: Ted Decker
 FY End: Jan
-Ex Div: Mar-Jun-Sep-Dec
-Div Pay: Mar-Jun-Sep-Dec
-Div History: Long
-Div Increase: March
-DivGro Streak: 2003
 Business: Home Retail
 ~~~
 

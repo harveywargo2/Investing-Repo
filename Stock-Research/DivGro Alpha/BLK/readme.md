@@ -1,16 +1,19 @@
 # Blackrock
-## Fair Value Assumption
-
+## Aesop 
 ```
 Method: DYT
-Median: 2.5%
-Safety: 2.7%
 MOS: 3.0%
+MM Low: 2.4%
+MM High: 2.7%
 Growth Low: 12%
 Growth High: 19%
+Ex Div: 3-6-9-12
+Div Pay: 3-6-9-12
+Div History: 2003
+Div Increase: March
+DivGro Streak: 2003
 Certainty: Yes
 ```
-
 
 ## Meta
 [Investor Relations](https://ir.blackrock.com/home/default.aspx)
@@ -20,14 +23,8 @@ Certainty: Yes
 ~~~
 CEO: Larry Fink
 FY End: Dec
-Ex Div: Mar-Jun-Sep-Dec
-Div Pay: Mar-Jun-Sep-Dec
-Div History: Long
-Div Increase: March
-DivGro Streak: 2003
 Business: Asset Management
 ~~~
-
 
 ## Historic Trends
 - 20 year Dividend History
@@ -39,5 +36,6 @@ Business: Asset Management
 	- Covid Crash
 
 ## Business Notables
+
 ## Notables
 

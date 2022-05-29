@@ -1,13 +1,18 @@
 # Texas Instruments
-## Fair Value Assumption
+## Aesop
 
 ```
 Method: DYT
-Median: 2.5%
-Safety: 2.7%
 MOS: 3.0%
+Median Low: 2.5%
+Median High: 2.7%
 Growth Low: 12%
 Growth High: 16%
+Ex Div: 1-4-7-10
+Div Pay: 2-5-8-11
+Div History: 1960
+Div Increase: March
+DivGro Streak: 1998
 Certainty: Yes
 ```
 
@@ -20,11 +25,6 @@ Certainty: Yes
 ~~~
 CEO: Richard Templeton
 FY End: Dec
-Ex Div: Jan-Apr-Jul-Oct
-Div Pay: Feb-May-Aug-Nov
-Div History: Long
-Div Increase: March
-DivGro Streak: 1998
 Business: Analog Semi-Conductors
 ~~~
 

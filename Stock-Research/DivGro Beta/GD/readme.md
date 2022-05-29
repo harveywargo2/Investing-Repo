@@ -1,13 +1,18 @@
 # General Dynamics
-## Fair Value Assumption
+## Aesop
 
 ```
 Method: DYT
-Median: 2.4
-Safety: 2.7
 MOS: 3.1
-Growth Low: 8
-Growth High: 11
+Median Low: 2.4
+Median High: 2.7
+Growth Low: 8%
+Growth High: 11%
+Ex Div: 1-4-7-10
+Div Pay: 1-5-8-11
+Div History: Long
+Div Increase: April
+DivGro Streak: 2017
 Certainty: Yes
 ```
 
@@ -20,11 +25,7 @@ Certainty: Yes
 ~~~
 CEO: Phebe N. Novakovic
 FY End: Dec
-Ex Div: Jan-Apr-Jul-Oct
-Div Pay: Jan-May-Aug-Nov
-Div History: Long
-Div Increase: April
-DivGro Streak: 2017
+
 Business: Aerospace & Defense
 ~~~
 
