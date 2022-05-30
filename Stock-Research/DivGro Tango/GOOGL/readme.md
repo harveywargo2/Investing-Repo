@@ -1,5 +1,5 @@
 # Alphabet Class A Shares
-## Fair Value Assumption
+## Aesop
 
 ```
 Method: Morningstar
@@ -13,12 +13,6 @@ MOS: 25%
 
 ~~~
 CEO: Sundar Pichai
-FY End: Oct
-Ex Div: N/A
-Div Pay: N/A
-Div History: N/A
-Div Increase: N/A
-DivGro Streak: N/A
 Business: Advertising, Media Entertainment, Tech Products, Cloud
 ~~~
 

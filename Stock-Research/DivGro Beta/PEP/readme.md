@@ -1,16 +1,19 @@
 # Pepsico
-## Fair Value Assumption
-
+## Aesop 
 ```
 Method: DYT
-Median: 
-Safety: 
 MOS: 
-Growth Low: 
-Growth High: 
-Certainty: 
+Median Low: 
+Median High: 2.7%
+Growth Low: 12%
+Growth High: 19%
+Ex Div: 3-6-9-12
+Div Pay: 3-6-9-12
+Div History: 2003
+Div Increase: March
+DivGro Streak: 2003
+Certainty: Yes
 ```
-
 
 ## Meta
 [Investor Relations]()
@@ -20,22 +23,12 @@ Certainty:
 ~~~
 CEO: 
 FY End: 
-Ex Div: 
-Div Pay: 
-Div History: 
-Div Increase: 
-DivGro Streak:
-DivGro Range:
 Business: 
 ~~~
 
-
 ## Historic Trends
-- 
 
 
 ## Business Notables
 
-
-## Other Notes
-
+## Notables

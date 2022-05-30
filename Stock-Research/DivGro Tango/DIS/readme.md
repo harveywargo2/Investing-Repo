@@ -1,5 +1,5 @@
 # Disney
-## Fair Value Assumption
+## Aesop
 
 ```
 Method: Morningstar
@@ -13,12 +13,6 @@ MOS: 25%
 
 ~~~
 CEO: Robert Chapek
-FY End: Oct
-Ex Div: N/A
-Div Pay: N/A
-Div History: Long
-Div Increase: N/A
-DivGro Streak: N/A
 Business: Media Entertainment, Theme Parks
 ~~~
 

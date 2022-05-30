@@ -24,7 +24,6 @@ WES - Western Midstream Partners LP - 10%
 EPD - Enterprise Products Partners LP - 10%
 PAA - Plains All American Pipeline LP - 10% 
 MMP - Magellan Midstream partners LP - 10%
-MPLX - PMLX LP - 9%
 ~~~
 ## Historic Trends
 
