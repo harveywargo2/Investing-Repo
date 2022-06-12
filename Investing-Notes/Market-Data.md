@@ -3,3 +3,7 @@
 [S&P Total Return with Dividends](https://www.slickcharts.com/sp500/returns/details)
 
 [US Inflation Rate ](https://www.macrotrends.net/2497/historical-inflation-rate-by-year)
+
+
+## S&P Returns with Intrayear Declines 
+![[Pasted image 20220605073200.png]]
