@@ -1,8 +1,7 @@
 # Three Investment Categories  
-  
 ## Recommended Reading  
 [University of Berkshire Hathaway: 30 Years of Lessons Learned from Warren Buffett & Charlie Munger at the Annual Shareholders Meeting](https://www.amazon.com/University-Berkshire-Hathaway-Lessons-Shareholders/dp/0998406260/ref=asc_df_0998406260/?tag=hyprod-20&linkCode=df0&hvadid=312143020546&hvpos=&hvnetw=g&hvrand=15097082917165532971&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9059141&hvtargid=pla-381614507708&psc=1)  
-  
+ 
 ## Category 1:  Investments denominated in a currency.  
   
 Buffett pulled out his wallet, took out a one dollar bill and read out loud, “In God We Trust.”  

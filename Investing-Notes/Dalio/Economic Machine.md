@@ -1,5 +1,5 @@
 # How the Economy Works
-[Youtube Link](https://www.youtube.com/watch?v=PHe0bXAIuk0)
+https://www.youtube.com/watch?v=PHe0bXAIuk0
 
 1. Productivity Growth
 2. Short Term Debt Cycle
